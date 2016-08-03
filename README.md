@@ -1,6 +1,7 @@
 # Typewriter
 message window like typewriter
-
+#Demo
+![Typwwiter](https://github.com/abotkugyu/Typewriter/blob/master/Typewriter.gif)
 #Usage
 ###Need inheritance
     TypeWriterDelegate　
